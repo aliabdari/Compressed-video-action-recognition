@@ -1,1 +1,1 @@
-# Compressed-video-action-recognition
+# Compressed Video Action Recognition
