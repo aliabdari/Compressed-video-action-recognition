@@ -10,6 +10,8 @@ In general, exploiting the compressed domain features as available information p
 
 The experimental results on multiple first and third person datasets exhibit that while the proposed method provides low computational complexity, the results are highly competitive with traditional approaches in accuracy.
 
+Understanding the concept of compression in the video is necessary.
+
 ## Prerequisites
 
 #### 1. Pre-Trained CNN:
